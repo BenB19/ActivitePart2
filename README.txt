@@ -1,0 +1,1 @@
+Réalisation de l’activité de la partie 2 du cours « Gérer son code avec Git et GitHub » qui a pour but de mettre en pratique les notions que j’ai acquises dans les deux premières parties de ce cours.
